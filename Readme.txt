@@ -1,1 +1,1 @@
-The office is way too extreme. It's either loud or quiet. Let's see the loudest and quietest times of the day
+The decibel levels in the office are way too extreme. It's either really loud or really quiet. Let's see the loudest and quietest times of the day
